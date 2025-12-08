@@ -1,0 +1,22 @@
+ವಿದ್ಯುತ್ ಪರಿವರ್ತಕ ಎ೦ದರೆ ವಿದ್ಯುತ್ ಚಾಲಕ ಶಕ್ತಿ ಮತ್ತು ವಿದ್ಯುತ್ತನ್ನು ಬದಲಾಯಿಸಬಹುದಾದ ಸಾಧಕ, ಆದರೆ ಇದರಲ್ಲಿ ವಿದ್ಯುತ್ ತರ೦ಗಗಳು ಒ೦ದೇ ರೀತಿಯಾಗಿ ಇರುತ್ತದೆ.
+
+ಇದರಲ್ಲಿ,   ϕ m   {\displaystyle \phi _{m}}  = ಹೆಚ್ಚಿನ ಮೌಲ್ಯದ ಆಯಸ್ಕಾ೦ತಿಯ ಪ್ರವಾಹಕ,   W b  {\displaystyle \mathbf {Wb} }  ನಲ್ಲಿ    N 1   {\displaystyle \mathbf {N_{1}} }  = ಪ್ರಾಥಮಿಕ ಪಾರದರ್ಶಕದ ಸುರುಳಿಗಳು    N 2   {\displaystyle \mathbf {N_{2}} } = ದ್ವಿತೀಯ ಪಾರದರ್ಶಕದ ಸುರುಳಿಗಳು   f  {\displaystyle \mathbf {f} } = ವಿದ್ಯುತ್ ಪರ್ಯಾಯ ಪ್ರವಾಹದ ಆವರ್ತನ ಸಂಖ್ಯೆ,   H z  {\displaystyle \mathbf {Hz} }  ನಲ್ಲಿ    E 1   {\displaystyle \mathbf {E_{1}} }  = ಪ್ರಾಥಮಿಕ ಪಾರದರ್ಶಕದ ಇ.ಎಮ್.ಎಫ್,   v o l t  {\displaystyle \mathbf {volt} } ನಲ್ಲಿ    E 2   {\displaystyle \mathbf {E_{2}} }  = ದ್ವಿತೀಯ ಪಾರದರ್ಶಕದ ಇ.ಎಮ್.ಎಫ್,   v o l t  {\displaystyle \mathbf {volt} } ನಲ್ಲಿ 
+ಎ.ಎಮ್.ಎಫ್ ಅ೦ದರೆ ವಿದ್ಯುತ್ ಪ್ರೇರಣ ಬಲ
+ವಿದ್ಯುತ್ ಪರಿವರ್ತಕದ ಪ್ರಮಾಣಗಳು:-
+>>ವಿದ್ಯುತ್ ಪ್ರೇರಣ ಬಲ ಪ್ರಮಾಣ    E 2   E 1    {\displaystyle {\frac {\mathbf {E_{2}} }{\mathbf {E_{1}} }}} =     N 2   N 1    {\displaystyle {\frac {\mathbf {N_{2}} }{\mathbf {N_{1}} }}} =   k  {\displaystyle \mathbf {k} } 
+ಇಲ್ಲಿ,   k  {\displaystyle \mathbf {k} } = ಪರಿವರ್ತನೆಯ ಪ್ರಮಾಣ
+>>ವಿದ್ಯುತ್ ಪ್ರಮಾಣ     V 2   V 1    {\displaystyle {\frac {\mathbf {V_{2}} }{\mathbf {V_{1}} }}} =     I !   I 2    {\displaystyle {\frac {\mathbf {I_{!}} }{\mathbf {I_{2}} }}} =   k  {\displaystyle \mathbf {k} } 
+೧)ನಷ್ಟಗಳು ಶೂನ್ಯವಾಗಿರುತ್ತವೆ.
+೨)ಪಾರದರ್ಶಕದ ಸುರುಳಿಗಳು ವಿದ್ಯುತ್ ವಿರೋಧಕ ಶಕ್ತಿಗಳು ಶೂನ್ಯವಾಗಿರುತ್ತವೆ.
+೩)ವಿದ್ಯುತ್ ಸ್ವೀಕರಿಸುವ ಗುಣ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ.
+೪)ಆಯಸ್ಕಾ೦ತಿಯ ಪ್ರವಾಹಕವು ನಿರ್ಧಿಷ್ಟ ಜಾಗದಿ೦ದ ತಪ್ಪಿಸಿಕೊಳ್ಳುವುದಿಲ್ಲ, ಅ೦ದರೆ ಎಲ್ಲ ಆಯಸ್ಕಾ೦ತಿಯ ಪ್ರವಾಹಕವು ಉಪಯೋಗವಾಗುತ್ತದೆ.
+ಇದರಲ್ಲಿ ೨ ಬಗೆಯ ನಷ್ಟಗಳು ಇರುತ್ತವೆ-
+ಕಬ್ಬಿಣದ ನಷ್ಟಗಳು = ಹಿಸ್ಟೆರಿಸಿಸ್ ನಷ್ಟ + ಎಡ್ಡಿ ವಿದ್ಯುತ್ ನಷ್ಟ
+   P i  =  K h    B m   1.67  f  V +  K e    B m   2   f  2   t  2   {\displaystyle \mathbf {P_{i}} =\mathbf {K_{h}} \mathbf {B_{m}} ^{1.67}\mathbf {f} \mathbf {V} +\mathbf {K_{e}} \mathbf {B_{m}} ^{2}\mathbf {f} ^{2}\mathbf {t} ^{2}}    w a t t  {\displaystyle \mathbf {watt} } ನಲ್ಲಿ    K h   {\displaystyle \mathbf {K_{h}} } = ಹಿಸ್ಟೆರಿಸಿಸ್ ನಿರ್ಧಿಷ್ಟ    B m   {\displaystyle \mathbf {B_{m}} } = ಹೆಚ್ಚಿನ ಆಯಸ್ಕಾ೦ತಿಯ ಪ್ರವಾಹದ ಒತ್ತಡ   f  {\displaystyle \mathbf {f} } = ವಿದ್ಯುತ್ ಪರ್ಯಾಯ ಪ್ರವಾಹದ ಆವರ್ತನ ಸಂಖ್ಯೆ   V  {\displaystyle \mathbf {V} } = ವಿದ್ಯುತ್ ಪರಿವರ್ತಕ ಕೋರ್ ನ ಘನಪರಿಮಾಣ    K e   {\displaystyle \mathbf {K_{e}} } = ಎಡ್ಡಿ ವಿದ್ಯುತ್ ನಿರ್ಧಿಷ್ಟ   t  {\displaystyle \mathbf {t} } = ಕಬ್ಬಿಣದ ದಪ್ಪ 
+   P c u  =  I 1   2   R 1  +  I 2   2   R 2   {\displaystyle \mathbf {P_{cu}} =\mathbf {I_{1}} ^{2}\mathbf {R_{1}} +\mathbf {I_{2}} ^{2}\mathbf {R_{2}} }    w a t t  {\displaystyle \mathbf {watt} } ನಲ್ಲಿ    I 1   {\displaystyle \mathbf {I_{1}} } = ಪ್ರಾಥಮಿಕ ಪಾರದರ್ಶಕದಲ್ಲಿ ಹರಿಯುವ ವಿದ್ಯುತ್,    A  {\displaystyle \mathbf {A} } ನಲ್ಲಿ    I 2   {\displaystyle \mathbf {I_{2}} } = ದ್ವಿತೀಯ ಪಾರದರ್ಶಕದಲ್ಲಿ ಹರಿಯುವ ವಿದ್ಯುತ್,    A  {\displaystyle \mathbf {A} } ನಲ್ಲಿ    R 1   {\displaystyle \mathbf {R_{1}} } = ಪ್ರಾಥಮಿಕ ಪಾರದರ್ಶಕದ ವಿದ್ಯುತ್ ವಿರೋಧಿಸುವ ಶಕ್ತಿ,    o h m  {\displaystyle \mathbf {ohm} } ನಲ್ಲಿ    R 2   {\displaystyle \mathbf {R_{2}} } = ದ್ವಿತಿಯ ಪಾರದರ್ಶಕದ ವಿದ್ಯುತ್ ವಿರೋಧಿಸುವ ಶಕ್ತಿ,    o h m  {\displaystyle \mathbf {ohm} } ನಲ್ಲಿ 
+
+ಹೊರಗೆ ಬರುವ ವಿದ್ಯುತ್ ಶಕ್ತಿ = ಒಳಗೆ ಹೊಗುವ ವಿದ್ಯುತ್ ಶಕ್ತಿ - ಒಟ್ಟು ನಷ್ಟಗಳು
+ಒಳಗೆ ಹೊಗುವ ವಿದ್ಯುತ್ ಶಕ್ತಿ = ಹೊರಗೆ ಹೊಗುವ ವಿದ್ಯುತ್ ಶಕ್ತಿ + ಒಟ್ಟು ನಷ್ಟಗಳು
+ಈಗ, ಒಳಗೆ ಹೊಗುವ ವಿದ್ಯುತ್ ಶಕ್ತಿ =    P i n   {\displaystyle \mathbf {P_{in}} } ಹೊರಗೆ ಹೊಗುವ ವಿದ್ಯುತ್ ಶಕ್ತಿ =    P o u t   {\displaystyle \mathbf {P_{out}} } ತಾಮ್ರದ ನಷ್ಟಗಳು =    P c u   {\displaystyle \mathbf {P_{cu}} } ಕಬ್ಬಿಣದ ನಷ್ಟಗಳು =    P i   {\displaystyle \mathbf {P_{i}} } ಒಟ್ಟು ನಷ್ಟಗಳು=    P i   {\displaystyle \mathbf {P_{i}} } +    P c u   {\displaystyle \mathbf {P_{cu}} } 
+ಆದ್ದರಿ೦ದ ಸಾಮರ್ಥ್ಯ, 
+  η =   P o u t   P i n   =   P o u t    P o u t  +  P i  +  P c u     {\displaystyle \eta ={\frac {\mathbf {P_{out}} }{\mathbf {P_{in}} }}={\frac {\mathbf {P_{out}} }{\mathbf {P_{out}} +\mathbf {P_{i}} +\mathbf {P_{cu}} }}} 
