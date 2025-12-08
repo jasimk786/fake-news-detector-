@@ -1,0 +1,29 @@
+# Python virtual environment folders
+venv/
+backend/venv/
+
+# Node.js dependencies
+node_modules/
+frontend/node_modules/
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Environment variables file
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Training checkpoints
+checkpoint-*/
+
+# TensorBoard logs (optional, if not needed)
+runs/
